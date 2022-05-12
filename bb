@@ -11,7 +11,7 @@
 {"name":"追剧吧","url":"http://zhuiju8.vip/api.php/v1.vod"},
 {"name":"琅琊影视","url": "http://fgyuu.top/lehailb_api.php/v1.vod"},
 {"name":"飓风影视","url": "http://jf.35ys.cc/lehailb_api.php/v1.vod"},
-{"name":"DC影视","url":"http://chaorenbb.com/api.php/v1.vod"},
+{"name":"DC视","url":"http://chaorenbb.com/api.php/v1.vod"},
 {"name":"月儿影视","url":"https://yue52.xyz/api.php/v1.vod"}],
 "zhujiexi": "http://47.100.138.210:91/home/api?type=ys&uid=7593435&key=ehortuyAHMNQTWX457&url=#https://jx.300ys.xyz/json/jianghu.php/?url=",
 "beiyongjiexi": "http://api.diliktv.xyz/vip/jx.php?url=#https://nbjx.vip/?url=#https://jx.blbo.cc:4433/?url=",
